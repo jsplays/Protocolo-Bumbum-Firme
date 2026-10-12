@@ -1,0 +1,6 @@
+{
+  "name": "Protocolo Bumbum Firme",
+  "description": "Guia educativo e aplicativo interativo com rotinas de 6 minutos sem equipamentos, cronômetro guiado, ativação neuromuscular e nutrição.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
